@@ -1,16 +1,13 @@
-# layout_flutter
+#07 | Layout dan Navigasi
 
-A new Flutter project.
+Praktikum 1: Membangun Layout di Flutter
+![Screenshot layout_flutter](images/hasil07_prak1.png)
 
-## Getting Started
+Praktikum 2: Implementasi button row
+![Screenshot layout_flutter](images/hasil07_prak2.png)
 
-This project is a starting point for a Flutter application.
+Praktikum 3: Implementasi text section
+![Screenshot layout_flutter](images/hasil07_prak3.png)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Praktikum 4: Implementasi image section
+![Screenshot layout_flutter](images/hasil07_prak4.png)
